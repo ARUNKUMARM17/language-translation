@@ -1,0 +1,19 @@
+.title {
+  color: #007bff;
+}
+
+.signup-container {
+  margin-top: 20px;
+}
+
+.translate-container {
+  margin-top: 20px;
+}
+
+.text-input {
+  background-color: #f8f9fa;
+}
+
+.table th, .table td {
+  text-align: center;
+}
